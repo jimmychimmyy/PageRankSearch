@@ -1,0 +1,3 @@
+<page><title>a</title><link>c</link></page>
+<page><title>b</title><link>a</link></page>
+<page><title>c</title><link>a</link><link>b</link></page>
